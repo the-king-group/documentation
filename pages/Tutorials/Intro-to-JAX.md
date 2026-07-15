@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to JAX
-parent: Code Tutorials
+parent: Tutorials
 nav_order: 1
 ---
 
