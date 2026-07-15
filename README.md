@@ -1,3 +1,7 @@
+# Notes about adding to this site
+- Do not add any sensitive or personal information, the site is publically viewable
+- Please follow the structure of the pages folder when adding new material to the site
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
