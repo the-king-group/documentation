@@ -3,19 +3,10 @@ title: Home
 layout: home
 ---
 
-# Welcome to the King Group!
+## Welcome to the King Group!
 
 The King group works to understand and design materials that are dynamic, responsive, and can correct their own errors. Unlike human-made materials, biological systems are strikingly robust to errors in the face of dynamic, out-of-equilibrium environments. Living matter corrects errors across six orders of magnitude: nanometer-scale kinetic proofreading achieves exponentially lower error rates in DNA replication than can be reached at equilibrium, and millimeter-scale vasculature rapidly remodels in response to changes in blood flow. Because many biological systems are capable of robust error correction, it should be possible to design synthetic materials with similar functions. Error-correcting materials would revolutionize modern technologies, ranging from artificial joints that could be revitalized with error-correcting synthetic enzymes to last a lifetime instead of just a decade, to phone screens that repair themselves while recharging overnight. Creating these materials will require both fundamental discoveries in the physical and biological laws that govern these complex, dynamic interactions and innovations in computational and inverse design methods. So how do we design error-correcting materials without the luxury of billions of years of evolution? 
 
-We focus our efforts on three types of error correction: (1) self-healing (such as self-assembly and polymers that heal), (2) stimulated healing (such as enzymatic correction), and (3) robustness to noise (especially cases in which noise is beneficial, rather than harmful). Our work tends to fall into one of these three categories, and uses a combination of inverse design, dynamical systems, molecular dynamics, and stochastic differential equations to understand and design error correction. 
+We focus our efforts on three types of error correction: (1) self-healing (such as self-assembly and polymers that heal), (2) stimulated healing (such as enzymatic correction), and (3) robustness to noise (especially cases in which noise is beneficial, rather than harmful). Our work tends to fall into one of these three categories, and uses a combination of inverse design, dynamical systems, molecular dynamics, and stochastic differential equations to understand and design error correction.
 
 ----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
