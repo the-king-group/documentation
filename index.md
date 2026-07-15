@@ -3,25 +3,11 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to the King Group!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+The King group works to understand and design materials that are dynamic, responsive, and can correct their own errors. Unlike human-made materials, biological systems are strikingly robust to errors in the face of dynamic, out-of-equilibrium environments. Living matter corrects errors across six orders of magnitude: nanometer-scale kinetic proofreading achieves exponentially lower error rates in DNA replication than can be reached at equilibrium, and millimeter-scale vasculature rapidly remodels in response to changes in blood flow. Because many biological systems are capable of robust error correction, it should be possible to design synthetic materials with similar functions. Error-correcting materials would revolutionize modern technologies, ranging from artificial joints that could be revitalized with error-correcting synthetic enzymes to last a lifetime instead of just a decade, to phone screens that repair themselves while recharging overnight. Creating these materials will require both fundamental discoveries in the physical and biological laws that govern these complex, dynamic interactions and innovations in computational and inverse design methods. So how do we design error-correcting materials without the luxury of billions of years of evolution? 
 
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+We focus our efforts on three types of error correction: (1) self-healing (such as self-assembly and polymers that heal), (2) stimulated healing (such as enzymatic correction), and (3) robustness to noise (especially cases in which noise is beneficial, rather than harmful). Our work tends to fall into one of these three categories, and uses a combination of inverse design, dynamical systems, molecular dynamics, and stochastic differential equations to understand and design error correction. 
 
 ----
 
