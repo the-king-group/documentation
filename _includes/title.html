@@ -1,4 +1,6 @@
-<a href="{{ '/' | relative_url }}" class="site-title lh-tight">
-  <img src="{{ site.logo | relative_url }}" alt="Logo" style="max-height: 40px; vertical-align: middle; margin-right: 10px;">
-  {{ site.title }}
+<a href="{{ '/' | relative_url }}" class="site-title lh-tight" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px;">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="height: 50px; width: auto; display: block;">
+  {% endif %}
+  <span style="display: block;">{{ site.title }}</span>
 </a>
