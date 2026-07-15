@@ -1,6 +1,6 @@
-<a href="{{ '/' | relative_url }}" class="site-title lh-tight" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px;">
+<a href="{{ '/' | relative_url }}" class="site-title" style="display: flex; align-items: center; gap: 12px; height: auto; padding: 10px 0; white-space: normal;">
   {% if site.logo %}
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="height: 50px; width: auto; display: block;">
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} Logo" style="height: 32px; width: auto; flex-shrink: 0; display: block;">
   {% endif %}
-  <span style="display: block;">{{ site.title }}</span>
+  <span style="line-height: 1.2; word-break: break-word;">{{ site.title }}</span>
 </a>
