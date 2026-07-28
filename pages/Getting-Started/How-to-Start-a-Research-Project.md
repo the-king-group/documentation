@@ -142,3 +142,6 @@ nav_order: 2
     - Peers
     - Collaborators
     - Professors you want to get to know better
+
+
+Last update: Ella King Jan. 2026
