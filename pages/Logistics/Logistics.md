@@ -29,3 +29,4 @@ Katherine Ellis
 - [King Group Github](https://github.com/the-king-group)
 - [Tech Room Finder](https://www.mccormick.northwestern.edu/contact/tech-room-finder.html)
 
+Last update: Katherine Ellis 7/28/26
