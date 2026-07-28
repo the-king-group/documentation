@@ -2,7 +2,7 @@
 layout: default
 title: How to Start a Research Project
 parent: Getting Started
-nav_order: 1
+nav_order: 2
 ---
 
 # How to Start a Research Project
