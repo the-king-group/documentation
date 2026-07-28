@@ -6,3 +6,7 @@ nav_order: 3
 ---
 
 # Physics Topics
+
+
+
+Last update: Katherine Ellis 7/28/26
