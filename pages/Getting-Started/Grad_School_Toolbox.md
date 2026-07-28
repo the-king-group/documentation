@@ -15,3 +15,7 @@ As a grad student you'll be taking notes, writing out ideas, saving data files, 
 
 ## Getting into a routine
 ...
+
+
+
+Last update: Katherine Ellis 7/28/26
