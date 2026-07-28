@@ -19,3 +19,6 @@ Feel free to sit at any open desk in our DG57 office, the office is free for you
 Please see Ella or Katherine to be added to the group Teams channels for rotations and journal club, Sharepoint, and Calendar.
 
 ### etc.
+
+
+Last update: Katherine Ellis 7/28/26
