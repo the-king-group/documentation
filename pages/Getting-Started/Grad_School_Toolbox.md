@@ -18,4 +18,4 @@ As a grad student you'll be taking notes, writing out ideas, saving data files, 
 
 
 
-Last update: Katherine Ellis 7/28/26
+Last update: Katherine Ellis July 2026
