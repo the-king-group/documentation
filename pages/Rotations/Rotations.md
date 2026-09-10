@@ -21,4 +21,4 @@ Please see Ella or Katherine to be added to the group Teams channels for rotatio
 ### etc.
 
 
-Last update: Katherine Ellis 7/28/26
+Last update: Katherine Ellis July 2026
