@@ -21,6 +21,6 @@ nav_order: 1
 - 6/4/26 - Odd elasticity, Scheibner et al. 2019
 - 5/14/26 - Nonreciprocity and odd viscocity in chiral active fluids, Markovich and Lubensky 2024
 - 5/7/26 - A polyhedral structure controls programmable self-assembly, Hubl et al. 2025
-- 
+  
 
 Last update: Katherine Ellis Sep. 2026
