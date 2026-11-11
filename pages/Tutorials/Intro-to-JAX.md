@@ -25,6 +25,8 @@ This is brief tour of introductory materials for JAX, an automatic differentiati
 
 Currently there is no pre-built wheel to install JAX on an M1 Chip Machine.  In fact, most python distributors haven't released an official package to install python on the native M1 build.  If you download Anaconda official release to install python and related packages, you will be installing using Rosetta2, which creates an emulated environment of the old Intel Chip architecture.  This is OK with most python packages, but you would run into problem if you want to have a local build of JAX and JAX-MD.  In order to properly install JAX and JAX-MD, we want to build a python environment with native M1 architecture, and then compile JAX and JAX-MD from source.
 
+Note: you will need to install a version of jax prior to 0.11
+
 ### Installation steps:
 1. Install python with [miniforge](https://github.com/conda-forge/miniforge#miniforge3) using the `Miniforge3-MacOSX-arm64` installer
 2. Create an environment containing python version 3.14.3 using by writing `conda create -n environmentName python=3.14.3` in the terminal command line.
